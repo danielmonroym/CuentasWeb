@@ -1,0 +1,6 @@
+com\mycompany\cuentasweb\JAXRSConfiguration.class
+com\mycompany\cuentasweb\resources\JavaEE8Resource.class
+com\udea\ejb\AccountFacadeLocal.class
+com\udea\entity\Account.class
+com\udea\ejb\AbstractFacade.class
+com\udea\ejb\AccountFacade.class
